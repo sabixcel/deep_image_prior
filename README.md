@@ -8,3 +8,5 @@ Use cases in the paper: image denoising, inpainting, super-resolution, jpeg arti
 
 Following the implementation created by the authors of the original paper and also [Andrew Reader video]([url](https://www.youtube.com/watch?v=FPzi8cUhNNY)https://www.youtube.com/watch?v=FPzi8cUhNNY), I studied the case of image reconstruicion: denoising + inpaiting.  
 
+![alt text](https://github.com/sabixcel/deep_image_prior/blob/main/figure6.png)
+
